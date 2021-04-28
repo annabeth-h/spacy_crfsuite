@@ -20,7 +20,7 @@ pip install spacy_crfsuite
 
 ## 🚀 Quickstart
 
-### Usage as a spaCy pipeline component
+### Usage as a spaCy 3.0 pipeline component
 
 ```python
 import spacy
